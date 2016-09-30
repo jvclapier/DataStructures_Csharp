@@ -1,0 +1,12 @@
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.exe.config
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.exe
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.pdb
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.csprojResolveAssemblyReference.cache
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.exe
+C:\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.pdb
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.exe.config
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.exe
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.pdb
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.exe
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\bin\Debug\DataStructureGroup.pdb
+\\Mac\Home\Desktop\School\IS 403\DataStructureGroup\DataStructureGroup\obj\Debug\DataStructureGroup.csprojResolveAssemblyReference.cache
